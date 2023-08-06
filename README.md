@@ -6,17 +6,15 @@
 <h3 align="center">Passionate and Dedicated Full-Stack Developer</h3>
 
 
-- 🔭 Currently I'm working on **Freaq**
+- 🔭 Currently I'm working on **Veil**
    - Designed for Speedy language learning
 
-- 🌱 Exploring **NodeJS** and **Français**
+- 🌱 Actively learning **Java** and **Français**
 <img align="right" width="500" height="550" src="https://media3.giphy.com/media/zxXZmv3C6mP760NxPi/giphy.webp?cid=ecf05e47ke482se9x5acqjvzujs6600hkbjp7jgea4ip9pd6&rid=giphy.webp&ct=g" >
-
-- 👨‍💻 My Available projects are here => [placeholder](placeholder)
 
 - 💬 Message me about **React or Javascript**
 
-- 📫 Message me here **tucker.judge@yahoo.com**
+- 📫 **tucker.judge@yahoo.com**
 
 - ⚡ Fun fact **J'aime apprendre des langues**
 
@@ -36,6 +34,7 @@
   </a>  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
+   
 <p/>
 
 
@@ -66,7 +65,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>   
 </p>
-
+<!-- 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tuckerjudge"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy cafe" /></a></p><br><br>
+!-->
 
